@@ -1,6 +1,6 @@
 # Frontend - U-Reg Exchange Rates
 
-This is the frontend service built with **React 18**.
+This is the frontend service built with **React 19**.
 
 ## 📚 **Setup**
 1. Copy `.env.example` to `.env` and configure.
@@ -15,7 +15,7 @@ This is the frontend service built with **React 18**.
 ## 🔑 **Environment Variables**
 1. Refer to .env.example for configuration.
    ```plaintext
-    REACT_APP_API_URL=http://localhost/api
+    REACT_APP_API_URL=http://localhost:8000/api
 ---
 
 ## 📂 **Key Commands**
